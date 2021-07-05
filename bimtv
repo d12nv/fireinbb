@@ -1100,27 +1100,6 @@ http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b192800
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s296280/images/logog.png" group-title="USA TV",CHEDDAR 
 https://live.chdrstatic.com/cheddar/primary/4.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW",Movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW",Black Cinema
-https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW",Comedy
-https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW",Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW",Filmrise
-https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW",Gravitas Movies
-https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW",MovieMix
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW",Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW",ConTV
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="NEW",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 
